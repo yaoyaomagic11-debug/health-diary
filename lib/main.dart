@@ -39,7 +39,6 @@ class HealthDiaryApp extends StatelessWidget {
       ],
       locale: const Locale('zh', 'CN'),
       theme: ThemeData(
-        fontFamily: 'sans-serif',
         colorScheme: ColorScheme.fromSeed(
           seedColor: const Color(0xFF7EC8A0),
           primary: const Color(0xFF7EC8A0),
